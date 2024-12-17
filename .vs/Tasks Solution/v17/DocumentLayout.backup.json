@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|c:\\users\\bidex\\source\\repos\\tasks solution\\usersmanagement\\usermanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|solutionrelative:usersmanagement\\usermanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96626B02-2886-4916-B575-861043FE089D}|UserManager_Unit_Test\\UserManager_UnitTest.csproj|c:\\users\\bidex\\source\\repos\\tasks solution\\usermanager_unit_test\\usermanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96626B02-2886-4916-B575-861043FE089D}|UserManager_Unit_Test\\UserManager_UnitTest.csproj|solutionrelative:usermanager_unit_test\\usermanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|c:\\users\\bidex\\source\\repos\\tasks solution\\usersmanagement\\dataaccess\\inmemoryuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|solutionrelative:usersmanagement\\dataaccess\\inmemoryuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|c:\\users\\bidex\\source\\repos\\tasks solution\\usersmanagement\\userreportrepository\\userreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|solutionrelative:usersmanagement\\userreportrepository\\userreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D461E602-B1B5-4883-8FFA-E9383892A3B0}|UserManager_Usage\\UserManager_Usage.csproj|c:\\users\\bidex\\source\\repos\\tasks solution\\usermanager_usage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D461E602-B1B5-4883-8FFA-E9383892A3B0}|UserManager_Usage\\UserManager_Usage.csproj|solutionrelative:usermanager_usage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|c:\\users\\bidex\\source\\repos\\tasks solution\\usersmanagement\\userrepository\\iuserreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|solutionrelative:usersmanagement\\userrepository\\iuserreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|c:\\users\\bidex\\source\\repos\\tasks solution\\usersmanagement\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|solutionrelative:usersmanagement\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|c:\\users\\bidex\\source\\repos\\tasks solution\\usersmanagement\\usermodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081C56EA-6DB1-4921-AB29-55CB898E595C}|UsersManagement\\UsersManagement.csproj|solutionrelative:usersmanagement\\usermodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UserManager_Usage\\Program.cs",
+              "RelativeDocumentMoniker": "UserManager_Usage\\Program.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UserManager_Usage\\Program.cs",
+              "RelativeToolTip": "UserManager_Usage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:40:28.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UserManager_Unit_Test\\UserManagerTests.cs",
+              "RelativeDocumentMoniker": "UserManager_Unit_Test\\UserManagerTests.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UserManager_Unit_Test\\UserManagerTests.cs",
+              "RelativeToolTip": "UserManager_Unit_Test\\UserManagerTests.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAD4v7MAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:46:33.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserManager\\UserManager.cs",
+              "RelativeDocumentMoniker": "UsersManagement\\UserManager\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserManager\\UserManager.cs",
+              "RelativeToolTip": "UsersManagement\\UserManager\\UserManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:49:13.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserReportRepository\\UserReportGenerator.cs",
+              "RelativeDocumentMoniker": "UsersManagement\\UserReportRepository\\UserReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserReportRepository\\UserReportGenerator.cs",
+              "RelativeToolTip": "UsersManagement\\UserReportRepository\\UserReportGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:33:13.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\DataAccess\\InMemoryUserRepository.cs",
+              "RelativeDocumentMoniker": "UsersManagement\\DataAccess\\InMemoryUserRepository.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\DataAccess\\InMemoryUserRepository.cs",
+              "RelativeToolTip": "UsersManagement\\DataAccess\\InMemoryUserRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:30:36.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserRepository\\IUserReportGenerator.cs",
+              "RelativeDocumentMoniker": "UsersManagement\\UserRepository\\IUserReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserRepository\\IUserReportGenerator.cs",
+              "RelativeToolTip": "UsersManagement\\UserRepository\\IUserReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:24:30.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UsersManagement\\UserRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserRepository\\IUserRepository.cs",
+              "RelativeToolTip": "UsersManagement\\UserRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:23:03.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserModel\\User.cs",
+              "RelativeDocumentMoniker": "UsersManagement\\UserModel\\User.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Tasks Solution\\UsersManagement\\UserModel\\User.cs",
+              "RelativeToolTip": "UsersManagement\\UserModel\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:20:11.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

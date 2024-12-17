@@ -1,0 +1,11 @@
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\bin\Debug\net8.0\UsersManagement.deps.json
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\bin\Debug\net8.0\UsersManagement.dll
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\bin\Debug\net8.0\UsersManagement.pdb
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\obj\Debug\net8.0\UsersManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\obj\Debug\net8.0\UsersManagement.AssemblyInfoInputs.cache
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\obj\Debug\net8.0\UsersManagement.AssemblyInfo.cs
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\obj\Debug\net8.0\UsersManagement.csproj.CoreCompileInputs.cache
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\obj\Debug\net8.0\UsersManagement.dll
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\obj\Debug\net8.0\refint\UsersManagement.dll
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\obj\Debug\net8.0\UsersManagement.pdb
+C:\Users\Bidex\source\repos\Tasks Solution\UsersManagement\obj\Debug\net8.0\ref\UsersManagement.dll
